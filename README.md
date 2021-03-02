@@ -21,3 +21,9 @@ This project cost $110 from 'Nomadcoders.co'. Is it worth?
 - [x] TV Show Detail
 - [x] Movie Detail
 - [ ] Search (TV, Movies)
+
+## Code Challenges
+
+- [ ] IMDB Link
+- [ ] Tabs inside of Movie / Show Details (YT Videos, Production Company & Countries)
+- [ ] Collections Link
