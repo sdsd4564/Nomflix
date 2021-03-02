@@ -21,7 +21,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "yarn run build"
   },
   "eslintConfig": {
     "extends": [
@@ -29,6 +31,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://sdsd4564.github.io/nomflix",
   "browserslist": {
     "production": [
       ">0.2%",
