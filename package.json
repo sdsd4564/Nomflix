@@ -1,5 +1,5 @@
 {
-  "name": "nomflix",
+  "name": "Nomflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://sdsd4564.github.io/nomflix",
+  "homepage": "https://sdsd4564.github.io/Nomflix",
   "browserslist": {
     "production": [
       ">0.2%",
